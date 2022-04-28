@@ -1,0 +1,7 @@
+{
+  "name": "camaraRv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
